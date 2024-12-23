@@ -1,20 +1,15 @@
 {
   "name": "ch-test-infra",
-  "version": "1.0.1",
+  "version": "1.1.6",
   "description": "Build rich content websites with Markdown and React",
   "keywords": [
     "react",
-    "markdown",
-    "mdx",
-    "syntax highlighting",
-    "rsc",
-    "code blocks"
+    "markdown"
   ],
   "homepage": "https://codehike.org",
   "bugs": {
     "url": "https://github.com/code-hike/codehike/issues"
   },
-  "author": "Rodrigo Pombo",
   "type": "module",
   "sideEffects": false,
   "license": "MIT",
